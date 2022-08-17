@@ -1,0 +1,11 @@
+git init (inicia o rep.)
+
+git status (informações de como o arquivo está classificado atualmente)
+
+git add (prepara arquivos para serem colocados no rep.)
+
+git commit -m (comenta quais foram as alteraçãoes que foram feitas no arquivo)
+
+git remote add origin (link rep.)
+
+git push
